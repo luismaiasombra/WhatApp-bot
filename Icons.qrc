@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>logo.png</file>
+    <file>logo menor.png</file>
+  </qresource>
+</RCC>
